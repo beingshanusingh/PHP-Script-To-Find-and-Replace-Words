@@ -41,7 +41,7 @@ include ('function.php');
 			<div class="jumbotron">
 			
 			 		<h3 id="text" style="font-family:Acme;"><?php FindReplace();?></h3>
-			 		<footer><span class="glyphicon glyphicon-search" aria-hidden="true">Shanu Singh 2017</span></footer>
+			 		<footer>&copy; Shanu Singh 2017</footer>
 				 
 			</div>
 			
